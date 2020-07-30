@@ -1,7 +1,7 @@
 # ![logo](https://i.imgur.com/aHRDloT.png)
 ## 🚩 Table of Contents
 - [About](#-about)
-- [How it works](#-works)
+- [How it works?](#-works)
 - [Examples](#-examples)
 - [Modules](#-modules)
 
